@@ -15,3 +15,18 @@ http://localhost:3000/books
 ```
 ./bin/rails test
 ```
+
+## 機能
+
+- devise
+  - ユーザー登録ができる
+  - ログイン, ログアウトができる
+  - nickname を登録できる
+  - パスワードの変更ができる
+- /users ユーザー一覧
+  - ログインしていないユーザーは見れない
+- /books CRUD
+
+## TODO
+
+- ページ間リンクを整備する
