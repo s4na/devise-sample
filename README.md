@@ -1,24 +1,17 @@
-# README
+# Devise sample
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## 環境構築
 
-Things you may want to cover:
+```
+./bin/webpack-dev-server
 
-* Ruby version
+./bin/rails s
+```
 
-* System dependencies
+http://localhost:3000/books
 
-* Configuration
+## テスト
 
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+```
+./bin/rails test
+```
