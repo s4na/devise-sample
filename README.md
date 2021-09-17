@@ -1,4 +1,4 @@
-# Devise sample
+# Devise sample: Fjord輪読会に向けての予習で作成
 
 ## 環境構築
 
