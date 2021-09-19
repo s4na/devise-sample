@@ -1,3 +1,7 @@
+<%= render 'shared/global_navigation' %>
+
+<br>
+
 <p id="notice"><%= notice %></p>
 
 <h1>Books</h1>
@@ -27,11 +31,3 @@
 <br>
 
 <%= link_to 'New Book', new_book_path %>
-
-<br>
-
-<%= link_to 'Sign out', destroy_user_session_path, method: :delete %>
-
-<br>
-
-<%= link_to "Change your password", edit_user_registration_path %>
