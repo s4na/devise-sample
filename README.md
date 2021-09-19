@@ -24,9 +24,7 @@ http://localhost:3000/books
   - nickname を登録できる
   - パスワードの変更ができる
 - /users ユーザー一覧
+  - http://localhost:3000/users
   - ログインしていないユーザーは見れない
 - /books CRUD
-
-## TODO
-
-- ページ間リンクを整備する
+  - http://localhost:3000/books
